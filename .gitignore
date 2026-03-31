@@ -73,3 +73,6 @@ ROADMAP-CLOUD.md
 scripts/DEV_GUIDE.md
 scripts/FUNC_TEST.md
 scripts/QUICK_TEST.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
